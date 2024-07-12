@@ -49,3 +49,5 @@ Checkout: View the estimated total price and proceed to checkout.
 
 #Loadin state
 ![alt text](<assets/Simulator Screenshot - iPhone 15 Pro Max - 2024-07-12 at 18.42.17.png>)
+
+https://github.com/chariseirene12/rn-assignment7-11356940.git
